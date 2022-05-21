@@ -7,7 +7,7 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 3. Fipi Suyanti 26050120140121 Oseanografi B
 4. Danindra Ravideevan Pradipta
 5. Annisa Wizqi Abdul Wakhid
-6. Asifa' Ainur Rokhimah
+6. Asifa' Ainur Rokhimah 26050120130070 Oseanografi A
 7. Nurul Annisa
 
 # 1. Landasan Teori
