@@ -12,6 +12,7 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 
 # 1. Landasan Teori
 **Difusi-Adveksi**
+
 **Hidrodinamika**
 # 2. Metode 
 masukin script dan cara kerja tiap modul
