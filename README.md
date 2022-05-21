@@ -6,8 +6,10 @@ Tugas akhir ini dibuat untuk memenuhi syarat responsi prakitikum pemodelan Osean
 2. Gigih Merlin
 
 # 1. Landasan Teori
-*Divusi-Adveksi*
-*Hidrodinamika*
-# 2. Metode
+**Divusi-Adveksi**
+**Hidrodinamika**
+# 2. Metode 
+masukin script dan cara kerja tiap modul
 # 3. Hasil Pemodelan
+tiap modul
 # 4. Pemanfaatan di Oseanografi
